@@ -1,3 +1,5 @@
+# Repo-specific exclusions
+blender/rendered_images
 
 # Created by https://www.gitignore.io/api/python,intellij
 
